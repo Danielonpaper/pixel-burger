@@ -162,6 +162,10 @@ header {
 .site-menu li a {
   color: #fff;
   text-decoration: none; }
+  
+.hero-headline {
+  color: #fff;
+}
 
 .hero-container {
   width: 100%;
